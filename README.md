@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Kof
+- 👀 I’m interested in making game on Godot Engine
+- 🌱 I’m currently learning: че учу, ниче не учу я раздолбай
+- 📫 How to reach me: https://kofaniy.itch.io/
+- 😄 Pronouns: Мужчина
+- ⚡ Fun fact: im Russian
