@@ -2,5 +2,5 @@
 - 👀 I’m interested in making game on Godot Engine
 - 🌱 I’m currently learning: че учу, ниче не учу я раздолбай
 - 📫 How to reach me: https://kofaniy.itch.io/
-- 😄 Pronouns: Мужчина
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: im Russian
